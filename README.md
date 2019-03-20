@@ -36,4 +36,7 @@ Spark SQL demo for spark-2.1.0-bin-2.6.0-cdh5.7.0
     Scala  | Java
     ------------- | -------------
     [DataFrameRDDApp.scala](https://github.com/wangjiqing/ImoocSparkSQLProject/tree/master/src/main/scala/com/imooc/spark/DataFrameRDDApp.scala)  | [DataFrameRDDAppForJava.java](https://github.com/wangjiqing/ImoocSparkSQLProject/tree/master/src/main/java/com/imooc/spark/DataFrameRDDAppForJava.java)
-        
+   
+8. DataFrame API 操作案例实战
+
+    [DateFrameCase.scala](https://github.com/wangjiqing/ImoocSparkSQLProject/tree/master/src/main/scala/com/imooc/spark/DateFrameCase)
