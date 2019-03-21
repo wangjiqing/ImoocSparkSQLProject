@@ -47,4 +47,9 @@ Spark SQL demo for spark-2.1.0-bin-2.6.0-cdh5.7.0
     ------------- | -------------
     [ParquetApp.scala](https://github.com/wangjiqing/ImoocSparkSQLProject/tree/master/src/main/scala/com/imooc/spark/ParquetApp.scala)  | [ParquetAppForJava.java](https://github.com/wangjiqing/ImoocSparkSQLProject/tree/master/src/main/java/com/imooc/ParquetAppForJava.java)
          
-    
+10. JDBC To Other Databases
+
+    Scala  | Java
+    ------------- | -------------
+    [JdbcDatabasesApp.scala](https://github.com/wangjiqing/ImoocSparkSQLProject/tree/master/src/main/scala/com/imooc/spark/JdbcDatabasesApp.scala)  | [JdbcDatabasesAppForJava.java](https://github.com/wangjiqing/ImoocSparkSQLProject/tree/master/src/main/java/com/imooc/JdbcDatabasesAppForJava.java)
+             
