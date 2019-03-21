@@ -43,4 +43,8 @@ Spark SQL demo for spark-2.1.0-bin-2.6.0-cdh5.7.0
     
 9. 操作Parquet文件数据（Spark SQL不指定格式的前提下模式选择处理parquet文件，执行需要HDFS服务）
     
-    [ParquetApp.scala](https://github.com/wangjiqing/ImoocSparkSQLProject/tree/master/src/main/scala/com/imooc/spark/ParquetApp.scala)
+    Scala  | Java
+    ------------- | -------------
+    [ParquetApp.scala](https://github.com/wangjiqing/ImoocSparkSQLProject/tree/master/src/main/scala/com/imooc/spark/ParquetApp.scala)  | [ParquetAppForJava.java](https://github.com/wangjiqing/ImoocSparkSQLProject/tree/master/src/main/java/com/imooc/ParquetAppForJava.java)
+         
+    
