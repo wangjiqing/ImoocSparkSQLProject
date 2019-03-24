@@ -16,7 +16,7 @@ public class SQLContextAppForJava {
         // 1) 创建响应的Context
         SparkConf sparkConf = new SparkConf();
         // 如果跑在Spark集群上时，将下面改行代码注释掉
-//        sparkConf.setAppName("SQLContextAppForJava").setMaster("local[2]");
+        sparkConf.setAppName("SQLContextAppForJava").setMaster("local[2]");
 
         JavaSparkContext sparkContext = new JavaSparkContext(sparkConf);
 
